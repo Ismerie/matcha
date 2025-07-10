@@ -115,8 +115,8 @@ docker compose up
 
 Ensuite, accédez à votre adresse IP locale sur le port 8080 :
 ```
-https://localhost:8080/
+https://localhost:5173/
 ```
 ```
-https://127.0.0.1:8080/
+https://127.0.0.1:5173/
 ```
