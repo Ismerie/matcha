@@ -2,6 +2,8 @@
 matcha est un projet web de la branche post-tronc commun Web & Mobile. Ce projet consiste à créer un site web SPA (Single Page Application) de rencontre permettant de matcher avec des personnes correspondant aux critères sélectionnés et ensuite de discuter avec elles. 
 Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
 
+[Vidéo de présentation de Matcha](https://www.youtube.com/watch?v=Gpw0gin-VzY)
+
 ## 📋 Fonctionnalités
 
 ### ⌨️ Les Technos
